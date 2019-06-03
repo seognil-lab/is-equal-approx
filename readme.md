@@ -6,7 +6,7 @@ Deal with the famous IEEE754 problem.
 
 Built for test frameworks and math calculation.
 
-## 📦 Get Started
+## 📦 Getting Started
 
 **Installation**
 
