@@ -1,5 +1,5 @@
 const { assert } = require('chai');
-const { isEqualApprox } = require('../dist/index.cjs');
+const { isEqualApprox } = require('../dist/');
 
 const checkEqualApprox = (data, comp, equal, delta) =>
     assert(isEqualApprox(data, comp, delta) === equal, 'error');

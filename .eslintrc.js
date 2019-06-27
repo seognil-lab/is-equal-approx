@@ -6,7 +6,6 @@ module.exports = {
     // * simple global way
     env: {
         es6: true,
-        // browser: true,
     },
 
     // * for different codes
@@ -30,5 +29,6 @@ module.exports = {
     },
     rules: {
         'no-console': ['warn'],
+        'no-unused-vars': ['warn'],
     },
 };
